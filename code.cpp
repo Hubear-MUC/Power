@@ -1,3 +1,10 @@
-double i,p,r;int main(){r=i;while(p>1){r=r*i;
---p;}
+double i,p,r;
+
+main(){
+r=i;
+while(p>1)
+{
+r=r*i;
+--p;
+}
 }
