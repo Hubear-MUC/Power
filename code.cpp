@@ -1,10 +1,4 @@
+#include "dincl.h"
 double i,p,r;
-
-main(){
-r=i;
-while(p>1)
-{
-r=r*i;
---p;
-}
-}
+int main(){r=1;i=in();p=in();while(p>0){r=r*i;--p;}
+out(r);}
