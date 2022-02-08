@@ -3,12 +3,17 @@ A program that calculates a power to a number
 
 See the readme.txt file for details
 
-Code space: max. 67 bytes
+Code space: max. 92 bytes
 
 --------------
 
 Version history:
 ----------------
+
+Version 3.0
+
+Implementation of user interaction so no debugger is necessary anymore when just working with the program.
+
 
 Version 2.1
 
