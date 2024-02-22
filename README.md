@@ -3,12 +3,18 @@ A program that calculates a power to a number
 
 See the readme.txt file for details
 
-Code space: max. 92 bytes
+Code space: max. 159 bytes
 
 --------------
 
 Version history:
 ----------------
+
+Version 4.0:
+
+Implementing the entry of number and exponent by arguments at invoking.
+This should make the usage of the program more comfortable.
+
 
 Version 3.0
 
